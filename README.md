@@ -2,6 +2,10 @@
 
 A 2-player local co-op stealth game where two players sneak into the Grinch's house to take back the stolen presents and save Christmas. Made by a team of four as a first-year project at DigiPen Institute of Technology Singapore (CSD1401, Fall 2024).
 
+
+https://github.com/user-attachments/assets/1aa916c8-11f1-493e-a9ff-c66fe4a15cb2
+
+
 ## About
 
 Both players share one keyboard and play at the same time. Together they make their way through four levels, collecting every present while avoiding the Grinch. Each player collects the presents in their own colour, red for Player 1 and green for Player 2. The players share a set of lives, so getting caught affects the whole team.
